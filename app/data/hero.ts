@@ -11,7 +11,8 @@ export const hero = {
   skills: [],
 
   description:
-    "I build software and teach people how to build software. Founder of Teachyst, a white-labeled LMS that helps educators monetize their content globally.",
+    "I’m an aspiring Software Developer with a strong interest in Backend and Java development. I’ve built a range of projects to strengthen my skills and explore technologies I’m passionate about. I created this portfolio to showcase my work, skills, and projects—and you can also chat with my AI assistant below to learn more about me.",
+
 
   contact: "syedmdsafiuddin.dev@gmail.com",
 
