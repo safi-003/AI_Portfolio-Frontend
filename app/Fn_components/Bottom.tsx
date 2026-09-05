@@ -167,7 +167,7 @@ function Bottom({ onActivate }: { onActivate?: () => void }) {
       
       const response = await axios.post(
 
-        `http://${url}/ingest/chat`,
+        `https://${url}/ingest/chat`,
 
         {
 
